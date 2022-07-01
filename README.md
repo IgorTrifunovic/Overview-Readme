@@ -1,6 +1,6 @@
 # Overview-Readme
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorTrifunovic&count_private=true)
+![IgorTrifunovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorTrifunovic&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic)](https://github.com/IgorTrifunovic/github-readme-stats)
 

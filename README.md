@@ -3,7 +3,7 @@ api/pin?username=IgorTrifunovic&repo=github-readme-stats
 ![IgorTrifunovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorTrifunovic&count_private=true)
 
 
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&layout=compact)](https://github.com/IgorTrifunovic/github-readme-stats)"/>
+<img src="[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&layout=compact)](https://github.com/IgorTrifunovic/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username={IgorTrifunovic}))"/>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
@@ -30,8 +30,13 @@ api/pin?username=IgorTrifunovic&repo=github-readme-stats
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+
+
+
+
                                                                                                              
 
                                                                                                              

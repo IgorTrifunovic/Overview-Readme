@@ -1,6 +1,6 @@
 # Overview-Readme
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic)](https://github.com/IgorTrifunovic/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorTrifunovic"/>
 

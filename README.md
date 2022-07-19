@@ -1,10 +1,7 @@
 # Overview-Readme
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorTrifunovic"/>
-
-<img src=""/>
 
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>

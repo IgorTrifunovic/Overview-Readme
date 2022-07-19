@@ -2,6 +2,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorTrifunovic&theme=vue"/>
+
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
